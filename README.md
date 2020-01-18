@@ -1,2 +1,3 @@
 # hello-world
-First Github repository
+First GitHub repository
+Chemistry student trying to write codes in GitHub.
